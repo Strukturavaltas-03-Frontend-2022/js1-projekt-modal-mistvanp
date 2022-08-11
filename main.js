@@ -1,5 +1,5 @@
-var modal = document.getElementsById("modal");
-var btn = document.getElementsById("btn");
+var modal = document.getElementById("modal");
+var btn = document.getElementById("btn");
 var btnClose = document.getElementsByClassName("close")[0];
 var button = document.getElementsByClassName("button")[0];
 
